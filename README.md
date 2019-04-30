@@ -1,4 +1,11 @@
-
 # Compile Marshal Python Script
 
-<img src ="https://github.com/md4fv/pymarshal/blob/master/image/marhalpy2.png"/>
+# How to use for python 2: 
+$ pkg install python2
+$ python2 py2.py
+
+# How to use for python 3: 
+$ pkg install python3
+$ python3 py3.py
+
+
