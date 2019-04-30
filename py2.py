@@ -1,7 +1,14 @@
 #Dfv47@Mfth'Daffa
 #BlackCoderCrush
 
-import marshal, sys, os, time
+
+try:
+        import os, sys, time, marshal
+except Exception as F:
+        exit("[ModuleErr] %s"%(F))
+
+if sys.version[0] in '3':
+        exit("[sorry] use python version 2")
 
 
 B = '\033[1;34m'
