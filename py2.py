@@ -61,7 +61,7 @@ else:
         sys.exit()
 
     try:
-        code = compile(strng, '<debby>', 'exec')
+        code = compile(strng, '<daffa>', 'exec')
         data = marshal.dumps(code)
     except TypeError:
         print R + '   ['+W+'!'+R+'] '+R+'[ '+W+'File already to compiled\n'
