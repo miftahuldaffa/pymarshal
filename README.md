@@ -1,11 +1,31 @@
-# Compile Marshal Python Script
+#  [ PyMarshal v.5.0 ]
 
-# How to use for python 2: 
-$ pkg install python2<br>
-$ python2 py2.py<br>
+PyMarshal is a tools for encode marshal your python script
 
-# How to use for python 3: 
-$ pkg install python3<br>
-$ python3 py3.py<br>
+# [ PyMarshal feature ]
+- [x] suplort py2
+- [x] support py3
+- [x] fast encode
 
+# [ Installation ]
+```
+$ apt update upgrade
+$ apt install python2 python3 git
+$ git clone https://github.com/md4fv/pymarshal
+$ cd pyMarshal
+```
 
+# [ How To Use ]
+```
+$ python2 py2.py for marshal python 2
+$ python3 py3.py for marshal python 3
+```
+# [ Images ]
+Python2 
+<img src=".images/py2.png" />
+Python 3
+<img src=".images/py3.png" />
+
+# [ Thanks to]
+https://github.com/md4fv<br>
+https://github.com/blackcodercrush<br>
