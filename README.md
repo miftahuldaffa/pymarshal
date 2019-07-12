@@ -6,6 +6,7 @@ PyMarshal is a tools for encode marshal your python script
 - [x] support py2
 - [x] support py3
 - [x] fast encode
+- [x] detect location file
 
 # [ Installation ]
 ```
