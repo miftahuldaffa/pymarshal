@@ -1,5 +1,6 @@
 #!/usr/bin/python2
 #-*- coding: utf-8 -*-
+#marshal py2
 
 '''
 PyMarshal - Compile Python Script
@@ -32,6 +33,15 @@ bannerpy2 = """
 {}|  _|_  |{}___{}{}| {}Version {}:{} v.5.0
 {}|_| |___| {}*{} https://github.com/md4fv   
 """.format(r,y,br,n,y,w,r,w,y,br,n,y,w,r,w,y,br,n,y,w,r,w,y,r,a)
+
+'''
+Coded  : @m_d4fv
+Author : Dfv47
+Team   : Black Coder Crush
+Phone  : 6282223108828
+Email  : daffamfthhsn21@gmail.com
+Thanks : ZoneExploiter & CytoXploit
+'''
 
 os.system('clear')
 try:
