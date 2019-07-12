@@ -23,9 +23,9 @@ $ python3 py3.py for marshal python 3
 ```
 # [ Images ]
 Python 2 <br>
-<img src=".images/py2.png" /><br>
+<img src="images/py2.png" /><br>
 Python 3<br>
-<img src=".images/py3.png" /><br>
+<img src="images/py3.png" /><br>
 
 # [ Thanks to]
 https://github.com/md4fv<br>
