@@ -23,10 +23,13 @@ $ python3 py3.py for marshal python 3
 ```
 # [ Images ]
 Python 2 <br>
-<img src="images/py2.png" /><br>
+<img src="image/py2.png" /><br>
 Python 3<br>
-<img src="images/py3.png" /><br>
+<img src="image/py3.png" /><br>
 
 # [ Thanks to]
 https://github.com/md4fv<br>
 https://github.com/blackcodercrush<br>
+
+# [ Note ]
+Check my other repository <a href="https://github.com/md4fv?tab=repositories">here</a>
